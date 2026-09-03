@@ -1,5 +1,5 @@
 
-```markdown
+
 # IIoT Predictive Maintenance System
 
 Ein IoT-basiertes System zur vorausschauenden Wartung (Predictive Maintenance). Ein ESP32 sammelt (simulierte) Sensordaten, sendet diese über MQTT an ein Python-Backend, wo ein Machine-Learning-Modell (Random Forest) die Daten auswertet und eine Status-LED am Mikrocontroller dynamisch steuert.
