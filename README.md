@@ -63,4 +63,3 @@ python backend.py
 * `plant/sensors`: ESP32 publiziert Sensordaten im JSON-Format.
 * `led/control`: Python-Backend publiziert Steuerungsbefehle (`{"LED": "ON"}` oder `{"LED": "OFF"}`).
 
-```
