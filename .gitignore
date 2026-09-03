@@ -1,0 +1,15 @@
+**/secrets.h
+.env
+
+
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+
+.pio/
+.vscode/
+*.elf
+*.bin
+
